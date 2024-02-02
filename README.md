@@ -11,7 +11,8 @@ https://github.com/GabrielM33/GrooveLab/assets/123421871/7ceeb3c6-f0f6-4446-bb62
 https://github.com/GabrielM33/GrooveLab/assets/123421871/d8a24551-71d3-44d1-8f9f-68e7572cd022
 
 
-## GrooveLab Trailer (I apologize for my video editing skills in advance)
+## GrooveLab Trailer
+### Disclaimer: video clips on trailer were recorded in early stage of development
 
 https://github.com/GabrielM33/GrooveLab/assets/123421871/6835488a-00ee-406d-ac21-6e940a636529
 
