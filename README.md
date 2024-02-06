@@ -4,15 +4,27 @@ This project is entirely made with Meta SDK. It pushes the boundaries of the SDK
 
 ## Demo 1
 
-https://github.com/GabrielM33/GrooveLab/assets/123421871/7ceeb3c6-f0f6-4446-bb62-11fc097ccc39
+
+https://github.com/GabrielM33/GrooveLab-MetaSDK/assets/123421871/f3f3c9a6-5d4d-4613-9ada-fce2492c9a2d
+
+
+// https://github.com/GabrielM33/GrooveLab/assets/123421871/7ceeb3c6-f0f6-4446-bb62-11fc097ccc39
 
 ## Demo 2
 
-https://github.com/GabrielM33/GrooveLab/assets/123421871/d8a24551-71d3-44d1-8f9f-68e7572cd022
+
+https://github.com/GabrielM33/GrooveLab-MetaSDK/assets/123421871/dbe836c9-80fb-480a-ba27-8a2071e38457
+
+
+// https://github.com/GabrielM33/GrooveLab/assets/123421871/d8a24551-71d3-44d1-8f9f-68e7572cd022
 
 
 ## GrooveLab Trailer
 Disclaimer: Video clips on trailer were recorded in early stage of development. Also, forgive my video editing skill lol.
 
-https://github.com/GabrielM33/GrooveLab/assets/123421871/6835488a-00ee-406d-ac21-6e940a636529
+// https://github.com/GabrielM33/GrooveLab/assets/123421871/6835488a-00ee-406d-ac21-6e940a636529
+
+
+
+https://github.com/GabrielM33/GrooveLab-MetaSDK/assets/123421871/00a0f7bd-a483-4779-8b4b-e187aafcc2c2
 
